@@ -1,0 +1,6 @@
+framework module UN8VIE7WAds {
+  umbrella header "UN8VIE7WAds-umbrella.h"
+
+  export *
+  module * { export * }
+}

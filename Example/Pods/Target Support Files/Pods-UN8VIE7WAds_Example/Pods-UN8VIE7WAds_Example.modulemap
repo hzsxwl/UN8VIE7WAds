@@ -1,0 +1,6 @@
+framework module Pods_UN8VIE7WAds_Example {
+  umbrella header "Pods-UN8VIE7WAds_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

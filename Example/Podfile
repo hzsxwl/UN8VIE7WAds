@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'UN8VIE7WAds_Example' do
+  pod 'UN8VIE7WAds', :path => '../'
+
+  target 'UN8VIE7WAds_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
